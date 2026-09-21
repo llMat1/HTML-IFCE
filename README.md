@@ -27,6 +27,20 @@ Aqui estão armazenadas as atividades desenvolvidas durante o curso:
 
 ---
 
+## 📚 Projetos
+
+Aqui estão armazenadas as projetos desenvolvidas durante o curso:
+
+* **Projeto 1:** `Apresentação Pessoal`
+* **Projeto 2:** `Portfólio de Imagens`
+* **Projeto 3:** `Página de Receitas`
+* **Projeto 4:** `Site Pessoal`
+* **Projeto 5:** `Tabelas de Notas`
+* **Projeto 6:** `Roteiro de Viagens`
+* **Projeto 7:** `Cadastro de Usuário`
+
+---
+
 ## 🏫 Instituição
 
 * **Instituto:** Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) — Campus Maranguape  
